@@ -1,0 +1,30 @@
+//
+//  migou.pch
+//  觅购
+//
+//  Created by ycicd on 2017/10/31.
+//  Copyright © 2017年 migou. All rights reserved.
+//
+
+#ifndef migou_pch
+#define migou_pch
+#ifdef __OBJC__
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+
+#define Mainrequest  @"http://http://47.92.88.164/homepage/index"
+
+#import "Const.h"
+#import "YBAdressConfigure.h"
+#import "YBColorConfigure.h"
+
+
+#endif
+
+#endif /* migou_pch */
+
+
+
