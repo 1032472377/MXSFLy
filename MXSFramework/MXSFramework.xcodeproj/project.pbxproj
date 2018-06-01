@@ -524,8 +524,8 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = PEB3Z7RVXR;
-				GCC_PREFIX_HEADER = /Users/mac/MXSFLy/MXSFramework/MXSFramework/Other/migou.pch;
-				INFOPLIST_FILE = /Users/mac/MXSFLy/MXSFramework/MXSFramework/Other/Info.plist;
+				GCC_PREFIX_HEADER = "$(SRCROOT)/MXSFramework/Other/migou.pch";
+				INFOPLIST_FILE = "$(SRCROOT)/MXSFramework/Other/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -546,8 +546,8 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = PEB3Z7RVXR;
-				GCC_PREFIX_HEADER = /Users/mac/MXSFLy/MXSFramework/MXSFramework/Other/migou.pch;
-				INFOPLIST_FILE = /Users/mac/MXSFLy/MXSFramework/MXSFramework/Other/Info.plist;
+				GCC_PREFIX_HEADER = "$(SRCROOT)/MXSFramework/Other/migou.pch";
+				INFOPLIST_FILE = "$(SRCROOT)/MXSFramework/Other/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
